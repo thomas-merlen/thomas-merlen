@@ -11,7 +11,7 @@
 
 ### Linux 🐧
 
-![Linux Mint](https://img.shields.io/badge/-linuxmint-000?&logo=linuxmint)
+![Linux Mint](https://img.shields.io/badge/-Linux_Mint-000?&logo=linuxmint)
 ![GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 
