@@ -11,6 +11,10 @@
 
 ### Linux 🐧
 
+[Linux Mint](https://img.shields.io/badge/-linuxmint-000?&logo=linuxmint)
+[GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU)
+[Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+
 ### Contact 
 
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%A9_-thomas.merlen%40outlook.com-729ca8)
