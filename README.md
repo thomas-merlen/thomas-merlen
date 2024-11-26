@@ -4,16 +4,16 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&color=729ca8
+![C](https://img.shields.io/badge/-C-000?&logo=C&color=729ca8)
 
 ### Cybersécurité 👨‍💻
 
 ### Linux 🐧
 
-![Linux Mint](https://img.shields.io/badge/-Linux_Mint-000?&logo=linuxmint)
-![GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+![Linux Mint](https://img.shields.io/badge/-Linux_Mint-000?&logo=linuxmint&color=729ca8)
+![GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU&color=729ca8)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&color=729ca8)
 
 ### Contact 
 
