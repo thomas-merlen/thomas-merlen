@@ -4,7 +4,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&color=729ca8
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=729ca8)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&color=729ca8)
 
 ### Cybersécurité 👨‍💻
