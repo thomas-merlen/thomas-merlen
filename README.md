@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/thomas-merlen/thomas-merlen/master/banner_github.png)
 
-### Étudiant à l'Université Sorbonne Paris Nord en première année de Licence Informatique 🧑🏼‍💼
+### Étudiant en première année de Licence Informatique 🧑🏼‍💼
 
 ### Languages
 
