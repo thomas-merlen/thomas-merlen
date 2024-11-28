@@ -8,12 +8,14 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C&color=729ca8)
 
 ### Cybersécurité 👨‍💻
+![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=red&style=flat&color=729ca8)
+![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=red&style=flat&color=729ca8)
 
 ### Linux 🐧
 
 ![Linux Mint](https://img.shields.io/badge/-Linux_Mint-000?&logo=linuxmint&color=729ca8)
-![GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU&color=729ca8)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&color=729ca8)
+![GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU&color=729ca8&logoColor=a42e2b)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&color=729ca8&logoColor=019733)
 
 ### Contact 
 
