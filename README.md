@@ -10,7 +10,7 @@
 ### Cybersécurité 👨‍💻
 ![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=red&style=flat&color=729ca8)
 ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=red&style=flat&color=729ca8)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&color=729ca8)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=orange&color=729ca8)
 
 ### Linux 🐧
 
