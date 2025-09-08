@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/thomas-merlen/thomas-merlen/master/banner_github.png)
 
-### Étudiant en première année de Licence Informatique 🧑🏼‍💼
+### Étudiant en BTS Services Informatiques aux Organisations 🧑🏼‍💼
 
 ### Languages
 
