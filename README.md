@@ -1,5 +1,7 @@
 ### Étudiant en BTS Services Informatiques aux Organisations 🧑🏼‍💼
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-merlen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=#f2f2f2&theme=graywhite" />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-merlen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=thomas-merlen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://streak-stats.demolab.com?user=thomas-merlen&theme=vue-dark&hide_border=true' />
 
-![Thomas Merlen GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-merlen&show_icons=true&theme=dark)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thomas-merlen.github.io)
